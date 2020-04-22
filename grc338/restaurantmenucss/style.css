@@ -6,20 +6,26 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   align: center;
   border-style: solid;
-  border color: darkslategray;
+  border-width: auto;
+  border-color: darkslategray;
+  padding: 50px 50px 50px 50px;
 }
 h2 {
   color: slategray;
   font-family: 'Oswald', sans-serif;
+  align: center;
 }
 h3 {
   color: slategray;
   font-family: 'Oswald', sans-serif;
+  align: left;
 }
 h4 {
   color: slategray;
   font-family: 'Open Sans', sans-serif;
+  align: left;
 p {
   color: lightslategray;
   font-family: 'Open Sans', sans-serif;
+  align: left;
 }
