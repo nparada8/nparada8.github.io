@@ -10,14 +10,14 @@ h1 {
 	border-width: 5px;
 	padding: 5px;
 	border-color: darkslategray;
-	margin: 20px 10px 20px;
+	margin: 20px 10px 25px;
 }
 
 h2 {
 	color: slategray;
 	font-family: 'Oswald', sans-serif;
 	text-align: center;
-	margin: 5px 0px 15px;
+	margin: 0px 0px 8px 0px;
 }
 
 h3 {
