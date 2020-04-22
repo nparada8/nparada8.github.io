@@ -5,8 +5,8 @@ h1 {
   color: darkslategray;
   font-family: 'Libre Baskerville', serif;
   text-align: center;
-  border-style: solid;
-  padding: 8px;
+  border-style: solid 5px;
+  padding: 5px;
   border-color: darkslategray;
   margin: 20px 10px 20px;
 }
