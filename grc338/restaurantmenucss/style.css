@@ -7,28 +7,31 @@ h1 {
   text-align: center;
   border-style: solid;
   border-color: darkslategray;
-  padding: 20px 20px 20px 20px;
+  padding: 0px 0px 0px 0px;
+  margin: 0 0 0 20px;
 }
 h2 {
   color: slategray;
   font-family: 'Oswald', sans-serif;
   text-align: center;
-  padding: 10px 0px 0px 20px;
+  margin: 0 0 0 20px;
 }
 h3 {
   color: slategray;
   font-family: 'Oswald', sans-serif;
   text-align: left;
-  padding: 0px 0px 0px 10px;
+  margin: 0px 0px 0px 10px;
 }
 h4 {
   color: slategray;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
+  margin: 10px 0 0 0;
 p {
   color: lightslategray;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
+  margin: 0 0 0 0;
 }
 ul {
   list-style-type: none;
