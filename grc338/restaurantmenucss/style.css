@@ -6,15 +6,15 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   text-align: center;
   border-style: solid;
-  padding: 5px 5px 5px 5px;
+  padding: 5px;
   border-color: darkslategray;
-  margin: 20px 10px 40px 10px;
+  margin: 20px 10px 40px;
 }
 h2 {
   color: slategray;
   font-family: 'Oswald', sans-serif;
   text-align: center;
-  margin: 10px 0 25px 0;
+  margin: 10px 0px 25px;
 }
 h3 {
   color: slategray;
