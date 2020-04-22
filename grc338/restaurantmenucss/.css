@@ -1,10 +1,10 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 h1 {
   color: darkblue;
-  font: "Times New Roman";
+  font: "Times New Roman"; Times, serif;
 }
 p {
-  color: red;
+  color: blue;
 }
