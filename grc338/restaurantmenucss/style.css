@@ -9,9 +9,17 @@ h1 {
   border color: darkslategray;
 }
 h2 {
-  color: 
+  color: slategray;
+  font-family: 'Oswald', sans-serif;
 }
+h3 {
+  color: slategray;
+  font-family: 'Oswald', sans-serif;
+}
+h4 {
+  color: slategray;
+  font-family: 'Open Sans', sans-serif;
 p {
-  color: darkslategray;
+  color: lightslategray;
   font-family: 'Open Sans', sans-serif;
 }
