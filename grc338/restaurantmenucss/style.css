@@ -6,9 +6,9 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   align: center;
   border-style: solid;
-  border-width: auto;
+  border-width: 5px 5px 5px 5px;
   border-color: darkslategray;
-  padding: 50px 50px 50px 50px;
+  padding: 20px 20px 20px 20px;
 }
 h2 {
   color: slategray;
