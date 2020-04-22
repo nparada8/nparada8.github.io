@@ -6,14 +6,15 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   text-align: center;
   border-style: solid;
+  padding: 5px;
   border-color: darkslategray;
-  margin: 0 35px 0 0;
+  margin: 20px 60px 10px 10px;
 }
 h2 {
   color: slategray;
   font-family: 'Oswald', sans-serif;
   text-align: center;
-  margin: 0 25px 0 0;
+  margin: 10px 25px 0 0;
 }
 h3 {
   color: slategray;
@@ -23,7 +24,7 @@ h3 {
   margin: 0 10px 0 0;
 }
 h4 {
-  color: slategray;
+  color: lightslategray;
   font-family: 'Oswald', sans-serif;
   fotn-weight: 300;
   text-align: left;
