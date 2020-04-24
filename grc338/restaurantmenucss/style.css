@@ -55,6 +55,7 @@ p {
 .price {
 	margin: 0 0 21px 0;
 	font-style: italic;
+	font-size: 1em;
 }
 
 ul {
