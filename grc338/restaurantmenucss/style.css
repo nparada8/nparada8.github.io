@@ -6,54 +6,54 @@ body {
 
 h1 {
 	color: rgb(47,79,79);
-	font-family: 'Libre Baskerville', serif;
+	font-family: serif;
 	font-size: 2em;
 	text-align: center;
 	border-style: solid;
 	border-width: 5px;
-	padding: 5px;
+	padding: .3em;
 	border-color: rgb(47,79,79);
-	margin: 20px 10px 25px 10px;
+	margin: 1.25em .625em 1.5em .625em;
 }
 
 h2 {
 	color: rgb(112,128,144);
-	font-family: 'Oswald', sans-serif;
+	font-family: sans-serif;
 	font-size: 1.75em;
 	font-variant: small-caps;
 	text-align: center;
-	margin: 0px;
+	margin: 0em;
 }
 
 h3 {
 	color: rgb(112,128,144);
-	font-family: 'Oswald', sans-serif;
+	font-family: sans-serif;
 	font-size: 1.25em;
 	font-variant: small-caps;
 	text-align: left;
-	margin: 8px 0 0 0;
+	margin: .5em 0 0 0;
 }
 
 h4 {
 	color: rgb(112,128,144);
-	font-family: 'Oswald', sans-serif;
+	font-family: sans-serif;
 	font-size: 1em;
 	font-weight: 300;
 	text-align: left;
-	margin: 4px 0 0 0;
+	margin: .25em 0 0 0;
 }
 
 p {
 	color: rgb(119,136,153);
-	font-family: 'Oswald', sans-serif;
+	font-family: sans-serif;
 	font-size: 1em;
 	font-weight: 200;
 	text-align: left;
-	margin: 0px;
+	margin: 0em;
 }
 
 .price {
-	margin: 0 0 21px 0;
+	margin: 0 0 1.3125em 0;
 	font-style: italic;
 	font-size: 1em;
 }
