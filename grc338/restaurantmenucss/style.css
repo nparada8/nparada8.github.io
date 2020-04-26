@@ -7,7 +7,7 @@ body {
 h1 {
 	color: rgb(47,79,79);
 	font-family: serif;
-	font-size: 2.125em;
+	font-size: 2.2em;
 	text-align: center;
 	border-style: solid;
 	border-width: 5px;
@@ -19,7 +19,7 @@ h1 {
 h2 {
 	color: rgb(112,128,144);
 	font-family: sans-serif;
-	font-size: 1.75em;
+	font-size: 1.6em;
 	font-variant: small-caps;
 	text-align: center;
 	margin: 0em;
@@ -28,7 +28,7 @@ h2 {
 h3 {
 	color: rgb(112,128,144);
 	font-family: sans-serif;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	font-variant: small-caps;
 	text-align: left;
 	margin: .5em 0 0 0;
@@ -37,7 +37,7 @@ h3 {
 h4 {
 	color: rgb(112,128,144);
 	font-family: sans-serif;
-	font-size: 1.2em;
+	font-size: 1.1em;
 	text-align: left;
 	margin: .25em 0 0 0;
 }
