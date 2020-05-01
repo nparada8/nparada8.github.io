@@ -1,0 +1,131 @@
+/*CSS DOCUMENT*/
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&family=Playfair+Display&display=swap');
+
+body {
+    background-color: rgb(253,245,240);
+}
+
+div.container {
+    margin: auto;
+    max-width: 70em;
+}
+
+header {
+    max-width: 50em;
+    background-color: rgb(205,92,92);
+    padding: 1em;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    color: rgb(255,239,213);
+    font-size: 2.25em;
+    text-align: center;
+    text-shadow: .05em .05em rgb(0,0,0);
+    margin: .5em auto .25em;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    color: rgb(255,218,185);
+    font-size: 1.35em;
+    text-align: center;
+    margin: .25em auto .5em;
+}
+
+div.intro {
+    margin: auto;
+}
+
+.intro img {
+    display: block;
+    margin: 1.5em auto;
+    width: 25%;
+    height: 20%;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+    font-size: 1em;
+    text-align: center;
+    margin: 1.5em auto;
+    color: rgb(0,0,0);
+    border-bottom: double 8px rgb(205,92,92);
+    border-top: double 8px rgb(205,92,92);
+    padding: 1em;
+    width: 50%;
+}
+
+div.maincontent {
+    max-width: 80em;
+    margin: auto;
+    margin-top: 2em;
+    padding: auto;
+}
+
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+    margin: 1em 0em;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+div.ingredients { 
+    font-size: 1em;
+    color: rgb(0,0,0);
+    background-color: rgb(255,239,213);
+    padding: 0em;
+    margin: 0em;
+    float: left;
+    width: 40%;
+}
+
+ul{
+    padding: 0em 1em;
+    margin: auto;
+    color: rgb(0,0,0);
+}
+
+.ingredients li {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    margin: .75em .75em 1em;
+    list-style-type: circle;
+    list-style-position: outside;
+    background-color: rgb(253,245,240);
+}
+
+div.directions {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    color: rgb(0,0,0);
+    float: left;
+    width: 60%;
+    margin: auto;
+}
+
+ol { 
+    padding: auto;
+    margin: auto;
+    max-width: 30em;
+}
+
+.directions li {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    margin: 0em 0em 1em 0em;
+    list-style-position: outside;
+}
+
+footer {
+    font-family: 'Playfair Display', serif;
+    color: rgb(205,92,92);
+    clear: both;
+}
