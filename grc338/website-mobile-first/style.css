@@ -1,0 +1,183 @@
+/*CSS DOCUMENT*/
+
+@import url("https://use.typekit.net/bea2yce.css");
+
+body {
+	background-color: rgb(240, 255, 255);
+	color: rgb(0, 0, 0);
+}
+
+div.container {
+	margin: auto;
+	max-width: 95%;
+}
+
+h1 {
+	font-family: fairplex-narrow, serif;
+	font-weight: 700;
+	font-size: 1.8em;
+	text-align: center;
+	margin: .75em auto 0em;
+	padding: 0;
+}
+
+h2 {
+	font-family: fairplex-narrow, serif;
+	font-weight: 500;
+	font-size: 1.6em;
+	text-align: center;
+	margin: .65em auto .25em;
+}
+
+h3 {
+	font-family: fairplex-narrow, serif;
+	font-weight: 500;
+	font-size: 1.4em;
+	margin: auto;
+}
+
+h4 {
+	font-family: fairplex-narrow, serif;
+	font-weight: 500;
+	font-size: 1.1em;
+}
+
+p {
+	font-family: fairplex-wide, serif;
+	font-weight: 400;
+	font-size: 1em;
+}
+
+.universalheader nav ul {
+	text-align: center;
+	margin: auto;
+	padding: 0;
+}
+
+.universalheader nav ul li {
+	font-family: fairplex-wide, serif;
+	font-weight: 400;
+	font-size: 1.15em;
+	text-transform: uppercase;
+	list-style: none;
+	display: inline;
+	text-align: center;
+	margin: auto .2em;
+}
+
+.universalheader ul li a {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+	text-align: center;
+}
+
+.headerimage img {
+	display: block;
+	margin: 1em auto;
+	width: 95%;
+	padding: 0;
+}
+
+.homepage h2 {
+	font-size: 1.2em;
+}
+
+.homeimage img {
+	max-width: 90%;
+	display: block;
+	margin: 2em auto;
+	padding: 0;
+}
+
+.locationpage h2 {
+	margin: .75em auto .35em;
+}
+
+.locationpage p {
+	text-align: center;
+	margin: 0em auto .5em;
+	padding: 0;
+}
+
+.locationimage img {
+	max-width: 80%;
+	display: block;
+	margin: 1.5em auto 0em;
+	padding: 0;
+}
+
+.aboutpage p {
+	margin: 1em auto;
+}
+
+.aboutimage img {
+	max-width: 80%;
+	display: block;
+	margin: auto;
+	padding: 0;
+}
+
+.menupage h3 {
+	margin: .75em auto 0em;
+	padding: 0;
+}
+
+.menupage h4 {
+	font-family: fairplex-wide, serif;
+	font-weight: 400;
+	font-size: 1em;
+	margin: .35em auto .55em;
+	padding: 0;
+}
+
+.menupage ul {
+	margin: auto;
+	padding: 0;
+}
+
+.menupage ul li {
+	list-style: none;
+	margin: auto;
+	padding: 0;
+}
+
+.menupage ul li h4 {
+	font-family: fairplex-narrow, serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 1.2em;
+	margin: .8em auto 0em;
+	padding: 0;
+}
+
+.menupage ul li p {
+	margin: .25em auto 1.5em;
+	padding: 0;
+}
+
+.price {
+	font-family: fairplex-narrow, serif;
+	font-weight: 500;
+	font-style: italic;
+	font-size: 1em;
+	padding: .5em;
+}
+
+.addonprice {
+	font-family: fairplex-narrow, serif;
+	font-weight: 500;
+	font-style: italic;
+	font-size: 1em;
+	padding: .25em;
+}
+
+.menutacos ul li {
+	margin: 1em auto;
+}
+
+.menuimages img {
+	display: block;
+	margin: 1em auto;
+	width: 80%;
+	padding: 0;
+}
