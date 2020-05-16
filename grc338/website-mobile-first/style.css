@@ -9,7 +9,7 @@ body {
 
 div.container {
 	margin: auto;
-	max-width: 95%;
+	width: 30em;
 }
 
 h1 {
@@ -37,15 +37,16 @@ h3 {
 }
 
 h4 {
-	font-family: fairplex-narrow, serif;
-	font-weight: 400;
-	font-size: 1.2em;
+	margin: .1em auto .5em;
+	padding: 0;
+    font-size: 1.1em;
 }
 
 p {
-	font-family: fairplex-wide, serif;
+	font-family: bebas-neue-pro, sans-serif;
 	font-weight: 400;
 	font-size: 1em;
+    letter-spacing: .05em;
 }
 
 .universalheader nav ul {
@@ -55,9 +56,10 @@ p {
 }
 
 .universalheader nav ul li {
-	font-family: fairplex-wide, serif;
-	font-weight: 400;
-	font-size: 1.15em;
+	font-family: bebas-neue-pro, sans-serif;
+	font-weight: 300;
+	font-size: 1.5em;
+    letter-spacing: .15em;
 	text-transform: uppercase;
 	list-style: none;
 	display: inline;
@@ -123,11 +125,9 @@ p {
 }
 
 .menupage h4 {
-	font-family: fairplex-wide, serif;
+    font-family: bebas-neue-pro, sans-serif;
 	font-weight: 400;
-	font-size: 1em;
-	margin: .35em auto .55em;
-	padding: 0;
+    letter-spacing: .03em;
 }
 
 .menupage ul {
@@ -142,30 +142,31 @@ p {
 }
 
 .menupage ul li h4 {
-	font-family: fairplex-narrow, serif;
+    font-family: fairplex-narrow, serif;
 	font-weight: 500;
-	font-style: normal;
-	font-size: 1.2em;
-	margin: .6em auto 0em;
+    font-size: 1.1em;
+	margin: .7em auto 0em;
 	padding: 0;
 }
 
 .menupage ul li p {
-	margin: .2em auto 1.5em;
+    font-size: 1em;
+	margin: .1em auto 1.3em;
 	padding: 0;
+    letter-spacing: .02em;
 }
 
 .price {
 	font-family: fairplex-narrow, serif;
-	font-weight: 500;
+	font-weight: 400;
+    font-size: 1em;
 	font-style: italic;
-	font-size: 1em;
 	padding: .5em;
 }
 
 .addonprice {
 	font-family: fairplex-narrow, serif;
-	font-weight: 500;
+	font-weight: 400;
 	font-style: italic;
 	font-size: 1em;
 	padding: .25em;
