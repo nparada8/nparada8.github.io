@@ -9,7 +9,7 @@ body {
 
 div.container {
 	margin: auto;
-	max-width: 28em;
+	width: 30em;
 }
 
 h1 {
