@@ -1,0 +1,235 @@
+/*CSS DOCUMENT*/
+
+@import url("https://use.typekit.net/bea2yce.css");
+body {
+	background-color: rgb(240, 255, 255);
+	color: rgb(0, 0, 0);
+}
+
+div.container {
+	margin: auto;
+	max-width: 45em;
+}
+
+h1 {
+	font-family: fairplex-narrow, serif;
+	font-weight: 700;
+	font-size: 1.95em;
+	margin: .75em auto .25em;
+}
+
+h2 {
+	font-family: fairplex-narrow, serif;
+	font-weight: 500;
+	font-size: 1.65em;
+	margin: auto;
+}
+
+h3 {
+	margin: 0em auto .65em;
+	padding: 0;
+	font-size: 1.25em;
+}
+
+p {
+	font-family: bebas-neue-pro, sans-serif;
+	font-weight: 400;
+	font-size: 1.15em;
+	letter-spacing: .05em;
+}
+
+.universalheader nav ul {
+	margin: auto;
+	margin-left: .75em;
+	padding: 0;
+}
+
+.universalheader nav ul li {
+	font-family: bebas-neue-pro, sans-serif;
+	font-weight: 400;
+	font-size: 1.6em;
+	letter-spacing: .12em;
+	text-transform: uppercase;
+	list-style: none;
+	display: inline;
+	margin-right: .75em;
+}
+
+.universalheader ul li a {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+.headerimage img {
+	max-width: 90%;
+	margin: auto;
+	margin-left: .75em;
+	padding: 0em;
+}
+
+.homepage h1 {
+	margin-left: .35em;
+}
+
+.homeimage img {
+	max-width: 90%;
+	margin: .35em auto auto .65em;
+	padding: 0;
+}
+
+.locationpage p {
+	margin: .5em auto 0em;
+	padding: 0em;
+}
+
+.hours {
+	margin-top: 1.5em;
+}
+
+.locationimage img {
+	width: 80%;
+	margin: 1.75em auto auto .75em;
+	padding: 0;
+}
+
+.locationcolumn {
+	margin: auto;
+	padding: 0;
+	margin-left: .75em;
+}
+
+@media only screen and (min-width: 35em) {
+	.locationcolumn {
+		width: 30%;
+		float: left;
+	}
+	.locationimage img {
+		width: 60%;
+		float: left;
+	}
+}
+
+.aboutpage {
+	margin: 0em .75em;
+}
+
+.aboutpage p {
+	margin: 0em auto .75em;
+}
+
+.aboutimage img {
+	max-width: 80%;
+	margin: auto;
+	padding: 0;
+}
+
+@media only screen and (min-width: 38em) {
+	.aboutcolumn {
+		width: 45%;
+		float: left;
+		margin-right: 1.2em;
+	}
+	.aboutimage img {
+		width: 45%;
+		float: left;
+		margin-top: 3em;
+	}
+}
+
+.menupage {
+	margin-left: .75em;
+}
+
+.menupage h2 {
+	margin: .35em auto 0;
+	padding: 0;
+}
+
+.menupage h3 {
+	font-family: bebas-neue-pro, sans-serif;
+	font-weight: 400;
+	letter-spacing: .03em;
+}
+
+.menupage ul {
+	margin: auto;
+	padding: 0;
+}
+
+.menupage ul li {
+	list-style: none;
+	margin: auto;
+	padding: 0;
+}
+
+.menupage ul li h3 {
+	font-family: fairplex-narrow, serif;
+	font-weight: 500;
+	font-size: 1.35em;
+	margin: .25em auto 0;
+	padding: 0;
+}
+
+.menupage ul li p {
+	font-size: 1.15em;
+	margin: 0 auto .75em;
+	padding: 0;
+	letter-spacing: .02em;
+}
+
+.price {
+	font-family: fairplex-narrow, serif;
+	font-weight: 400;
+	font-size: .9em;
+	font-style: italic;
+	padding: .35em;
+}
+
+.addonprice {
+	font-family: fairplex-narrow, serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: .95em;
+	padding: .15em;
+}
+
+.tacos ul li {
+	margin: 1em auto;
+}
+
+.tacosimage img {
+	margin: 1em auto;
+	width: 90%;
+	padding: 0;
+}
+
+.menuimages img {
+	margin: 0 auto 1em;
+	width: 90%;
+	padding: 0;
+}
+
+@media only screen and (min-width: 35em) {
+	.menuheadings {
+		width: 90%;
+		float: left;
+		margin-top: 1.1em;
+	}
+	.menuimages img {
+		width 50%;
+		float: left;
+	}
+	.menuitems {
+		width: 45%;
+		float: left;
+		margin-right: 1em;
+	}
+	.tacos {
+		width: 35%;
+		float: left;
+	}
+	.tacosimage img {
+		width: 50%;
+		float: left;
+	}
+}
